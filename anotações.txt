@@ -1,0 +1,3 @@
+Position relative: ele libera a opção de você colocar outras opçoes como left, bottom, right e top
+Position absolute: ele permite que você movimente o seu elemento de acordo com o pai que tem position diferente de static, que é padrão
+
